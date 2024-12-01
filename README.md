@@ -12,5 +12,6 @@ https://www.youtube.com/watch?v=vLSLwIaCpv8
 
 *Build using CMAKE*
 
-executable path/to/input 1/2/none
+
+`executable path/to/input 1/2/none`
 
