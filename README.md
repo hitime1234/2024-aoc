@@ -8,6 +8,7 @@ I want blazing fast code because python is slow and rust is too safe.
 
 https://www.youtube.com/watch?v=vLSLwIaCpv8
 
+# Build
 
 *Build using CMAKE*
 
