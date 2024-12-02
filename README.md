@@ -2,6 +2,8 @@
 
 I want blazing fast code because python is slow and rust is too safe.
 
+Oh yeah my news years resolution is to use more CI testing
+
 ## day 1
 
 ### VECTORS WOO
